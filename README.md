@@ -1,1 +1,1 @@
-# UniversityTAFL
+# Formal Languages and Automata Theory
